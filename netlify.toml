@@ -1,0 +1,8 @@
+[build]
+    command = "npm run build"
+    functions = "functions"
+
+[build.environment]
+    CHANNEL_SECRET="203612975b5685945b554e6a3db1559d"
+    CHANNEL_ACCESS_TOKEN=BSiirlKwL3mwr+OYpm4l+Wfy0cBZG6b6+vWAvSiDR29HnUMuSv3nOx2itdw1fB0rHlZpGzX+T49QF1iL+kgyQRPd5cOJtiQKadJ5WdbY9PVK2rN5q3MXWY8y5EVGC4BZYiSfp+jTUsqqaccUL9ha/QdB04t89/1O/w1cDnyilFU="
+    SPREADSHEET_URL="https://script.google.com/macros/s/AKfycbxQHNgXeefZkA-J5WvdsztdXt3YEx3Wal0xtQzFlylb0085kQaNMN_Ak85YFZ781eDj/exec"
